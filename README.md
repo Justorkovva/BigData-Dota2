@@ -1,9 +1,16 @@
 # BigData-Dota2
 
-Projekt polegający na stworzeniu modelu,
-który potrafiłby przewidzieć wynik gry Dota2
-na podstawie bohaterów wybranych na początku rozgrywki
+## Technologies / Keywords:
 
-Baza danych pochodzi od:
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. 
-Bezpośredni link do bazy danych: https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results
+* Machine Learning
+* Python 3.7
+* k-nearest Neighbors Algorithm
+* Jupyter Notebook
+
+## General Info
+
+Model predicting the result of the Dota2 game (which team will win) based only on the champion selection.
+
+Database with over 100k records acquired from: 
+*Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.* 
+[Direct URL to this database](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results)
